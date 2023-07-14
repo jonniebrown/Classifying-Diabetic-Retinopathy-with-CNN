@@ -36,6 +36,6 @@ Going forward, I would like to continue tuning my model to get better results. I
 
 ## Repository Navigation
 Inside the Notebooks folder are three notebooks:
-1. EDA - exploring the data
-2. binary_tuning - working with subset of data
-3. full_binary_model - training my model with all the images.
+1. [EDA](Notebooks/EDA.ipynb) - exploring the data
+2. [binary_tuning](Notebooks/binary_tuning.ipynb) - working with subset of data
+3. [full_binary_model](Notebooks/full_binary_model) - training my model with all the images.
